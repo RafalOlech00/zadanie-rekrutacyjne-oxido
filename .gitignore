@@ -1,0 +1,10 @@
+# Ignorowanie folderu venv
+venv/
+
+# Ignorowanie pliku .env z kluczem API
+.env
+
+# Inne pliki, które można ignorować
+__pycache__/
+*.pyc
+.DS_Store
