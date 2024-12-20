@@ -1,4 +1,4 @@
-# Zadanie Rekrutacyjne - Oxido (Junior AI Developer)
+# OpenAI HTML Builder
 
 ## Opis projektu
 Aplikacja w Pythonie, która:
